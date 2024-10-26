@@ -1,9 +1,9 @@
-2024-10-25 22:59:03,990 - INFO - START NSP_OEC_Training_Chapter_27 =============================================
-2024-10-25 22:59:03,990 - INFO - START NSP_OEC_Training_Chapter_27 Start Time = 2024-10-25 22:59:03
-2024-10-25 22:59:03,990 - INFO - NSP_OEC_Training_Chapter_27 Step 0 - Initialize the configuration file parser
-2024-10-25 22:59:03,990 - INFO - Process NSP_OEC_Training_Chapter_27 Step 0 - Initializing and starting Logging Process.
-2024-10-25 22:59:04,037 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 The total process duration was:0.05
-2024-10-25 22:59:04,037 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Stop Time = 2024-10-25 22:59:04
-2024-10-25 22:59:04,038 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Short process duration less than 3 Seconds:0.05
-2024-10-25 22:59:04,038 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Performance optimization is not reccomended
-2024-10-25 22:59:04,038 - INFO - END NSP_OEC_Training_Chapter_27 =============================================
+2024-10-25 23:11:49,374 - INFO - START NSP_OEC_Training_Chapter_27 =============================================
+2024-10-25 23:11:49,374 - INFO - START NSP_OEC_Training_Chapter_27 Start Time = 2024-10-25 23:11:49
+2024-10-25 23:11:49,374 - INFO - NSP_OEC_Training_Chapter_27 Step 0 - Initialize the configuration file parser
+2024-10-25 23:11:49,374 - INFO - Process NSP_OEC_Training_Chapter_27 Step 0 - Initializing and starting Logging Process.
+2024-10-25 23:11:49,421 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 The total process duration was:0.05
+2024-10-25 23:11:49,422 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Stop Time = 2024-10-25 23:11:49
+2024-10-25 23:11:49,422 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Short process duration less than 3 Seconds:0.05
+2024-10-25 23:11:49,422 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_27 Performance optimization is not reccomended
+2024-10-25 23:11:49,422 - INFO - END NSP_OEC_Training_Chapter_27 =============================================
