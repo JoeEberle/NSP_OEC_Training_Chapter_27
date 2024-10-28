@@ -55,7 +55,7 @@ Assessing a patient who has been injured after contact with a toxic plant, anima
    - **Systemic Symptoms**: Look for signs of systemic involvement, like **muscle weakness, abdominal pain, vomiting, confusion, or seizures**, which may indicate the spread of toxins throughout the body.
 
 ### 6. **Document and Record Findings**
-   - **Document All Findings**: Record all physical observations, vital signs, and the patient's description of symptoms. Note any visible injuries, the extent of the reaction, and changes in the patient’s condition.
+   - **Document All Findings**: Record all physical observations, vital signs, and the patient's description of symptoms. Note any visible injuries, the extent of the reaction, and changes in the patientâ€™s condition.
    - **Take Photos if Possible**: If feasible, take **photos** of the affected area for further medical evaluation, especially if the patient is unsure of the exact source of exposure.
 
 ### Summary of Steps:
@@ -73,7 +73,7 @@ When assessing, ensure the patient remains **calm and comfortable**. Be prepared
 ## 27.4 Describe and demonstrate how to manage an exposure to topical toxins 
 
 
-Managing exposure to topical (skin-contact) toxins involves prompt and careful actions to remove the toxin, minimize absorption, and treat any reactions. Here’s how to describe and demonstrate the appropriate care:
+Managing exposure to topical (skin-contact) toxins involves prompt and careful actions to remove the toxin, minimize absorption, and treat any reactions. Hereâ€™s how to describe and demonstrate the appropriate care:
 
 ### 1. **Ensure Scene Safety and Use Protective Gear**
    - **Scene Safety**: Make sure the environment is safe for both you and the patient, and avoid direct contact with the toxin.
@@ -84,7 +84,7 @@ Managing exposure to topical (skin-contact) toxins involves prompt and careful a
    - **Gently Brush Off Any Residue**: If the toxin is in **powder form**, gently brush it off the skin with a cloth or gloved hand before rinsing.
 
 ### 3. **Flush the Affected Area with Water**
-   - **Rinse Thoroughly**: Use **cool running water** to flush the affected skin for **15–20 minutes**. Make sure the water flows away from the body to avoid spreading the toxin to other areas.
+   - **Rinse Thoroughly**: Use **cool running water** to flush the affected skin for **15â€“20 minutes**. Make sure the water flows away from the body to avoid spreading the toxin to other areas.
    - **Avoid Scrubbing**: Do not scrub the skin, as this can increase absorption of the toxin and cause irritation.
    - **Use Soap if Safe**: If the toxin is oil-based (e.g., certain pesticides), you can use a mild soap to help remove it. Ensure you use soap that is **not abrasive**.
 
@@ -104,7 +104,7 @@ Managing exposure to topical (skin-contact) toxins involves prompt and careful a
 ### Summary of Steps:
 1. **Scene Safety**: Ensure safety and wear gloves to prevent self-exposure.
 2. **Remove the Toxin**: Take off contaminated clothing and brush off any residue.
-3. **Rinse the Skin**: Flush the affected area with water for 15–20 minutes, using soap if needed.
+3. **Rinse the Skin**: Flush the affected area with water for 15â€“20 minutes, using soap if needed.
 4. **Treat Skin Reactions**: Use cool compresses for mild irritation and monitor for severe reactions.
 5. **Monitor for Systemic Symptoms**: Watch for signs of toxin absorption and seek medical help if needed.
 6. **Documentation and Follow-Up**: Record all details and refer for further medical evaluation.
@@ -118,7 +118,7 @@ When demonstrating these steps, emphasize **gentleness and care** in handling th
 ## 27.5 Describe and demonstrate how to manage someone who has been bit by a poisonous snake. 
 
 
-Managing a snake bite from a poisonous (venomous) snake requires quick and careful action to reduce the spread of venom, minimize complications, and ensure the safety of the patient. Here’s how to describe and demonstrate the appropriate care:
+Managing a snake bite from a poisonous (venomous) snake requires quick and careful action to reduce the spread of venom, minimize complications, and ensure the safety of the patient. Hereâ€™s how to describe and demonstrate the appropriate care:
 
 ### 1. **Ensure Scene Safety**
    - **Move to Safety**: Ensure the patient and yourself are **away from the snake** to prevent additional bites. Do not attempt to capture or kill the snake, but try to **remember its color and shape** for identification if possible.
@@ -138,7 +138,7 @@ Managing a snake bite from a poisonous (venomous) snake requires quick and caref
 
 ### 5. **Monitor for Signs of Severe Reaction**
    - **Watch for Symptoms of Envenomation**: Be alert for signs of **severe envenomation**, which may include **severe pain, swelling, bruising, nausea, vomiting, dizziness, difficulty breathing, or changes in consciousness**.
-   - **Check Vital Signs**: Regularly monitor **breathing, pulse, and blood pressure**, and be prepared to provide basic life support (CPR) if the patient’s condition worsens.
+   - **Check Vital Signs**: Regularly monitor **breathing, pulse, and blood pressure**, and be prepared to provide basic life support (CPR) if the patientâ€™s condition worsens.
 
 ### 6. **Immobilize the Limb**
    - **Use a Splint or Sling**: Immobilize the bitten limb using a **splint** or **sling** to reduce movement. Keep the limb at or slightly below heart level.
@@ -165,7 +165,7 @@ When demonstrating these steps, emphasize **keeping the patient calm**, immobili
 
 ## 27.6 Describe and demonstrate the proper management of wounds caused by animals. 
 
-Proper management of animal bite wounds involves prompt cleaning, controlling bleeding, and preventing infection. Here’s how to describe and demonstrate the appropriate care:
+Proper management of animal bite wounds involves prompt cleaning, controlling bleeding, and preventing infection. Hereâ€™s how to describe and demonstrate the appropriate care:
 
 ### 1. **Ensure Scene Safety and Use Protective Gear**
    - **Ensure Safety**: Make sure the animal is no longer a threat and that the environment is safe for treating the patient.
@@ -176,7 +176,7 @@ Proper management of animal bite wounds involves prompt cleaning, controlling bl
    - **Control Bleeding**: If there is **severe bleeding**, apply **direct pressure** using a clean cloth or bandage. For minor bleeding, allow it to flow briefly to help flush out bacteria from the wound. **Elevate** the affected area if possible.
 
 ### 3. **Clean the Wound Thoroughly**
-   - **Wash with Soap and Water**: Rinse the wound under **running water** for at least **5–10 minutes** to remove dirt, saliva, and bacteria. Use a mild soap to clean around the area.
+   - **Wash with Soap and Water**: Rinse the wound under **running water** for at least **5â€“10 minutes** to remove dirt, saliva, and bacteria. Use a mild soap to clean around the area.
    - **Avoid Scrubbing Deep Punctures**: For deep puncture wounds, do not aggressively scrub the area, as this can damage tissue and push bacteria deeper.
 
 ### 4. **Apply an Antiseptic and Cover the Wound**
